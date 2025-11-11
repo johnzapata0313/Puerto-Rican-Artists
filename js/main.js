@@ -4,11 +4,11 @@ document.getElementById('EladioCarrion').onclick = eladioCarrion
 document.getElementById('DeiV').onclick = deiV
 document.getElementById('MykeTowers').onclick = mykeTowers
 
-let BadBunny = new Audio('file:///Users/johnzapata/Downloads/week04-day02-materials/background-picker/audio/Bad%20Bunny%20-%20Moscow%20Mule%20(La%20Letra%20%20Lyrics).mp3');
-let RauwAlejandro = new Audio('file:///Users/johnzapata/Downloads/week04-day02-materials/background-picker/audio/Rauw%20Alejandro%20-%20DILUVIO.mp3');
-let EladioCarrion = new Audio('file:///Users/johnzapata/Downloads/week04-day02-materials/background-picker/audio/Eladio%20Carri%C3%B3n%20-%20Mbapp%C3%A9%20(LetraLyrics).mp3');
-let DeiV = new Audio('file:///Users/johnzapata/Downloads/week04-day02-materials/background-picker/audio/Chris%20Jedi,%20Gaby%20Music,%20Dei%20V%20-%20PERREO%20LENTO%20(Visualizer).mp3');
-let MykeTowers = new Audio('file:///Users/johnzapata/Downloads/week04-day02-materials/background-picker/audio/Girl%20(Myke%20Towers).mp3');
+let BadBunny = new Audio('audio/Bad Bunny - Moscow Mule (La Letra  Lyrics).mp3');
+let RauwAlejandro = new Audio('audio/Rauw Alejandro - DILUVIO.mp3');
+let EladioCarrion = new Audio('audio/Eladio Carrión - Mbappé (LetraLyrics).mp3');
+let DeiV = new Audio('audio/Chris Jedi, Gaby Music, Dei V - PERREO LENTO (Visualizer).mp3');
+let MykeTowers = new Audio('audio/Girl (Myke Towers).mp3');
 
 function badBunny() {
   document.body.style.backgroundImage = "url('https://www.billboard.com/wp-content/uploads/2025/07/26-Night-3-Bad-Bunny-PR-Residency-pr-credit-Cheery-Viruet-006-2025-billboard-1548.jpg?w=875&h=583&crop=1')"
