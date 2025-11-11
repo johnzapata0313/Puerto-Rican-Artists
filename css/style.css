@@ -1,0 +1,68 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background-image: url(https://westindiestravel.com/wp-content/uploads/2023/05/Crash-Boat-Beach.jpeg);
+  font-family: "Michroma", sans-serif;
+}
+
+h1, h2{
+  text-align: center;
+}
+img{
+  display: block;
+  height: 300px;
+  margin: 0 auto;
+}
+ul{
+  width: 100px;
+  height: 328px;
+  border: 3px solid black;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+}
+
+li{
+  border: 1px solid black;
+  width: 94px;
+  height: 65px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+#BadBunny{
+  background-image: url('https://thumbs.web.sapo.io/?W=1550&H=0&delay_optim=1&webp=1&epic=YWQyJF1fLBTQcmFZTX45+YSSEWQJ/w+WXcW2JPL3x/Zs8KrhLI6cxXZhsW75zFduUlIDNl5sZLNVqRepoQEUKrVm3bnBPJZ+0lH3AWSH89SwnAo');
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+}
+#RauwAlejandro{
+  background-image: url('https://static.wikia.nocookie.net/selenagomez/images/d/d6/RauwAlejandro.jpg/revision/latest?cb=20250505131335');
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+}
+#EladioCarrion{
+  background-image: url('https://magazine-resources.tidal.com/uploads/2023/03/eladio_resized-1920x1151.jpeg');
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+}
+#DeiV{
+  background-image: url('https://i.scdn.co/image/ab6761610000e5ebad87851714948a6513059332');
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+}
+#MykeTowers{
+  background-image: url('https://fastly-s3.allmusic.com/artist/mn0003690093/400/cClcItjKgJDR4e5HUro_nD6KsMttLlyBmmVTZ6_CLs0=.jpg');
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+}
