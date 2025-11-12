@@ -47,9 +47,8 @@ li{
   background-size: 100% 100%;
 }
 #RauwAlejandro{
-  background-image: url('https://static.wikia.nocookie.net/selenagomez/images/d/d6/RauwAlejandro.jpg/revision/latest?cb=20250505131335');
   background-repeat: no-repeat; 
-  background-size: 100% 100%;
+  background-size: cover;
 }
 #EladioCarrion{
   background-image: url('https://magazine-resources.tidal.com/uploads/2023/03/eladio_resized-1920x1151.jpeg');
